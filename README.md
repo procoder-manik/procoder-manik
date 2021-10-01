@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manik Hossain</h1>
 <h3 align="center">A passionate Web Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=procoder-manik&label=Profile%20views&color=0e75b6&style=flat" alt="procoder-manik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=procoder-manik" alt="procoder-manik" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working JavaScript [Facebook Chat](#)
 
@@ -20,6 +15,13 @@
 - 📫 How to reach me **manikhstu1@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/procoder-manik](https://github.com/procoder-manik)
+- 
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=procoder-manik&label=Profile%20views&color=0e75b6&style=flat" alt="procoder-manik" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=procoder-manik" alt="procoder-manik" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
