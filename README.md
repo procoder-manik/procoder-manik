@@ -1,6 +1,8 @@
-### Hi there 👋, I'm Manik Hossain 
+(https://media-exp1.licdn.com/dms/image/C5616AQHhREoKhZDw3w/profile-displaybackgroundimage-shrink_350_1400/0/1624539170625?e=1638403200&v=beta&t=BW0wMhURN_uV5ni8R052pc07jcW2hjhQEVGvz9a1T7c)
+
+# Hi there 👋, I'm Manik Hossain 
 #### A passionate Web Designer and WordPress Expert
-![A passionate Web Designer and WordPress Expert](https://media-exp1.licdn.com/dms/image/C5616AQHhREoKhZDw3w/profile-displaybackgroundimage-shrink_350_1400/0/1624539170625?e=1638403200&v=beta&t=BW0wMhURN_uV5ni8R052pc07jcW2hjhQEVGvz9a1T7c)
+![A passionate Web Designer and WordPress Expert]
 
 This is 'Manik Hossain'. I live in Bangladesh. My hometown is Dinajpur. I am a student and my subject is Finance & Banking. But now I am learning "Web-Design."
 
