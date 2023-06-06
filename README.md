@@ -1,5 +1,5 @@
 <h1 align="center" text="rubic">This is Manik Hossain </h1>
-<h4 align="center"> [A passionate Web Designer and WordPress Expert] </h4> <br /> 
+<h4 style="font-family: Arial, sans-serif;" align="center"> [A passionate Web Designer and WordPress Expert] </h4> <br /> 
 
 <a href="https://ibb.co/xj2nwX8"><img src="https://i.ibb.co/yyNzKdB/Game.jpg" alt="Game" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>json data validator</a><br />
 
