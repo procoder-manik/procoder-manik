@@ -1,7 +1,7 @@
 <h1 align="center" text="rubic">This is Manik Hossain </h1>
 <h4 style="font-family: Georgia, sans-serif;" align="center"> [A passionate Web Designer and WordPress Expert] </h4> <br /> 
 
-<a align="center" href="https://ibb.co/xj2nwX8"><img src="https://i.ibb.co/yyNzKdB/Game.jpg" alt="Game" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>json data validator</a><br />
+<a align="center" href="https://ibb.co/xj2nwX8"><img src="https://i.ibb.co/yyNzKdB/Game.jpg" alt="Game" border="5" align="center"></a><br /><a target='_blank' href='https://geojsonlint.com/'>json data validator</a><br />
 
 # Hi there 👋, I'm Manik Hossain 
 <h3 style="color:red; text-align:center"> A passionate Web Designer and WordPress Expert</h3>
