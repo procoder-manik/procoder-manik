@@ -1,4 +1,4 @@
-![A passionate Web Designer and WordPress Expert]([https://media-exp1.licdn.com/dms/image/C5616AQHhREoKhZDw3w/profile-displaybackgroundimage-shrink_350_1400/0/1624539170625?e=1638403200&v=beta&t=BW0wMhURN_uV5ni8R052pc07jcW2hjhQEVGvz9a1T7c](https://ibb.co/xj2nwX8))
+![A passionate Web Designer and WordPress Expert]((https://ibb.co/xj2nwX8))
 
 # Hi there 👋, I'm Manik Hossain 
 <h3 style="color:red; text-align:center"> A passionate Web Designer and WordPress Expert</h3>
