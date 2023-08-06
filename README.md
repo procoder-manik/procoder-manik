@@ -4,7 +4,7 @@
 <a  align="center" href="https://ibb.co/xj2nwX8"><img src="https://i.ibb.co/yyNzKdB/Game.jpg" alt="Game" border="0" ></a><br /><a target='_blank' href='https://geojsonlint.com/'>json data validator </a><br />
 
 # Hi there 👋, I'm Manik Hossain 
-<h3 style="color:red; text-align:center"> A passionate Web Designer & Developer ‖ WordPress & Shopify Expert </h3>
+<h3 style="color:red; text-align:center"> A passionate Web Designer & Developer –¦– WordPress & Shopify Expert </h3>
 
 
 This is 'Manik Hossain'. I live in Bangladesh. My hometown is Dinajpur. I am a student and my subject is Finance & Banking. But now I am learning  Web Design and Development.
