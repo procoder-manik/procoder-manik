@@ -9,7 +9,7 @@
 
 This is 'Manik Hossain'. I live in Bangladesh. My hometown is Dinajpur. I am a student and my subject is Finance & Banking. But now I am learning  Web Design and Development.
 
-Skills:  HTML / CSS/ Bootstrap / Javascript / jQuery / WordPress / Shopify 
+Skills:  HTML / CSS/ Bootstrap / Javascript / jQuery / PHP / WordPress / Shopify 
 
 - 🔭 I’m currently working on WordPress & Shopify. 
 - 🌱 I’m currently learning JavaScript & PHP.
