@@ -1,20 +1,20 @@
 <h1 >This is Manik Hossain </h1>
 <h4 align="center"> [A passionate Web Designer and WordPress Expert] </h4> <br /> 
 
-<a  align="center" href="https://ibb.co/xj2nwX8"><img src="https://i.ibb.co/yyNzKdB/Game.jpg" alt="Game" border="0" ></a><br /><a target='_blank' href='https://geojsonlint.com/'>json data validator</a><br />
+<a  align="center" href="https://ibb.co/xj2nwX8"><img src="https://i.ibb.co/yyNzKdB/Game.jpg" alt="Game" border="0" ></a><br /><a target='_blank' href='https://geojsonlint.com/'>json data validator </a><br />
 
 # Hi there 👋, I'm Manik Hossain 
-<h3 style="color:red; text-align:center"> A passionate Web Designer and WordPress Expert</h3>
+<h3 style="color:red; text-align:center"> A passionate Web Designer & Developer ‖ WordPress & Shopify Expert </h3>
 
 
-This is 'Manik Hossain'. I live in Bangladesh. My hometown is Dinajpur. I am a student and my subject is Finance & Banking. But now I am learning "Web-Design."
+This is 'Manik Hossain'. I live in Bangladesh. My hometown is Dinajpur. I am a student and my subject is Finance & Banking. But now I am learning  Web Design and Development.
 
-Skills: Javascript/ REACT / JS / HTML / CSS/ Bootstrap / WordPress
+Skills:  HTML / CSS/ Bootstrap / Javascript / jQuery / WordPress / Shopify 
 
-- 🔭 I’m currently working on jquery 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Javascript 
-- 🤔 I’m looking for help with Javascript 
+- 🔭 I’m currently working on WordPress & Shopify. 
+- 🌱 I’m currently learning JavaScript & PHP.
+- 👯 I’m looking to collaborate on  WordPress & Shopify.
+- 🤔 I’m looking for help with Javascript. 
 - 💬 Ask me about manikhstu1@gmail.com 
 - 📫 How to reach me: +880 1720520782 (WhatsApp) 
 
