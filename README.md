@@ -14,7 +14,7 @@
 
 
 
-   <img align="left" alt="GIF description" src="Skills_Animation_White.gif">
+   <img align="right" alt="GIF description" src="Skills_Animation_White.gif">
 
 
 <!-- code gif image End-->
