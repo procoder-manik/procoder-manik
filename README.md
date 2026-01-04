@@ -27,7 +27,9 @@
     Hi, I’m <span style="color: #1D8FC3;">Manik Hossain</span>, a professional <span style="color: #D93B2A;">Web Developer</span>, <span style="color: #D93B2A;">WordPress Expert</span>, and <span style="color: #D93B2A;">CMS Specialist</span> with <strong>5+ years of experience</strong>, working with multiple agencies and delivering solutions in web development, CMS customization, and technical SEO.
   </p>
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">CMS Platforms I Have Worked With:</p>
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
+    CMS Platforms I Have Worked With:
+  </p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li><strong>WordPress</strong> (PHP, MySQL, HTML, CSS, JavaScript)</li>
     <li><strong>Shopify</strong> (Liquid, HTML, CSS, JavaScript)</li>
@@ -38,7 +40,9 @@
     <li><strong>Duda</strong> (HTML, CSS, JavaScript)</li>
   </ul>
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Core Skills & Expertise:</p>
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
+    Core Skills & Expertise:
+  </p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li>Custom WordPress Development</li>
     <li>Elementor Pro</li>
@@ -48,12 +52,16 @@
     <li>Technical SEO</li>
     <li>Website Performance & Security</li>
   </ul>
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-<!--Night Owl image End-->
-  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Programming Languages & Technologies:</p>
+
+  <!-- Night Owl image -->
+  <div>
+    <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  </div>
+  <!-- Night Owl image End -->
+
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
+    Programming Languages & Technologies:
+  </p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li>HTML5, CSS3, JavaScript</li>
     <li>PHP, MySQL</li>
@@ -64,7 +72,9 @@
     <li>MERN Stack</li>
   </ul>
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Current Learning & Focus:</p>
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
+    Current Learning & Focus:
+  </p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li>Full-Stack JavaScript Development</li>
     <li>React.js UI Development</li>
@@ -74,17 +84,22 @@
     <li>Vibe Coding (Clean Code, Performance, Scalable Architecture)</li>
   </ul>
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Experience Highlights:</p>
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
+    Experience Highlights:
+  </p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li>550+ websites delivered across multiple industries</li>
     <li>Agency-level collaboration and production workflows</li>
     <li>Focus on clean code, clear communication, and measurable results</li>
   </ul>
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Goal:</p>
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
+    Goal:
+  </p>
   <p>Build <strong>scalable</strong>, <strong>high-performance</strong>, and <strong>business-driven digital solutions</strong> combining strong design, modern development, and SEO best practices.</p>
 
 </div>
+
 
 <!-- About End -->
 
