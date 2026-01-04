@@ -7,15 +7,81 @@
 <h3 style="color:red; text-align:center"> A passionate Web Designer & Developer –¦– WordPress & Shopify Expert </h3>
 
 
-Hi, I’m Manik Hossain, a professional Web Developer, WordPress Expert, and CMS Specialist with over 5+ years of experience in building high-quality, performance-driven websites. I work with multiple agencies, delivering reliable solutions across web development, CMS customization, and technical SEO.
+Hi, I’m Manik Hossain, a professional Web Developer, WordPress Expert, and CMS Specialist with 5+ years of experience, working with multiple agencies and delivering solutions in web development, CMS customization, and technical SEO.
 
-I have hands-on experience working with a wide range of content management systems, including WordPress, Shopify, Wix, Squarespace, Webflow, Square, and Duda. This broad CMS expertise allows me to adapt quickly to different platforms and deliver the right solution based on each project’s needs.
+CMS Platforms I Have Worked With:
 
-My core strengths include custom WordPress development, Elementor Pro, WooCommerce, responsive design, CMS optimization, and technical SEO, ensuring websites are fast, secure, scalable, and search-engine friendly. I have successfully contributed to 550+ websites across various industries.
+WordPress (PHP, MySQL, HTML, CSS, JavaScript)
 
-Currently, I am expanding my skill set in modern full-stack development, focusing on React.js, Node.js, MongoDB, and Next.js as part of the MERN stack, while also exploring Vibe Coding to improve code quality, performance, and development efficiency.
+Shopify (Liquid, HTML, CSS, JavaScript)
 
-I value clean code, clear communication, and measurable results. My goal is to build digital solutions that combine strong design, solid development, and long-term business growth.
+Wix (Velo / JavaScript, HTML, CSS)
+
+Squarespace (HTML, CSS, JavaScript)
+
+Webflow (HTML, CSS, JavaScript)
+
+Square Online (HTML, CSS, JavaScript)
+
+Duda (HTML, CSS, JavaScript)
+
+Core Skills & Expertise:
+
+Custom WordPress Development
+
+Elementor Pro
+
+WooCommerce
+
+Responsive Web Design
+
+CMS Optimization
+
+Technical SEO
+
+Website Performance & Security
+
+Programming Languages & Technologies:
+
+HTML5, CSS3, JavaScript
+
+PHP, MySQL
+
+React.js
+
+Node.js
+
+MongoDB
+
+Next.js
+
+MERN Stack
+
+Current Learning & Focus:
+
+Full-Stack JavaScript Development
+
+React.js UI Development
+
+Node.js Backend Architecture
+
+MongoDB Database Design
+
+Next.js (SSR & SEO Optimization)
+
+Vibe Coding (Clean Code, Performance, Scalable Architecture)
+
+Experience Highlights:
+
+550+ websites delivered across multiple industries
+
+Agency-level collaboration and production workflows
+
+Focus on clean code, clear communication, and measurable results
+
+Goal:
+
+Build scalable, high-performance, and business-driven digital solutions combining strong design, modern development, and SEO best practices
 
 <!--Night Owl image-->
 <div>
