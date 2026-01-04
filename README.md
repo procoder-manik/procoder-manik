@@ -5,7 +5,7 @@
 
 # Hi there 👋, I'm Manik Hossain 
 <h3 style="color:red; text-align:center"> A passionate Web Designer & Developer –¦– WordPress & Shopify Expert </h3>
-
+---
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -78,6 +78,7 @@
 
 <!-- About End -->
 
+---
 
 - 🔭 I’m currently working on WordPress & Shopify. 
 - 🌱 I’m currently learning JavaScript & PHP.
@@ -90,12 +91,6 @@
 
 ---
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
