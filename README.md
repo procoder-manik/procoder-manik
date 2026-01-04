@@ -48,6 +48,10 @@ I’m a professional **Web Developer**, **WordPress Expert**, and **CMS Speciali
 - Website Performance & Security  
 
 ---
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 💻 **Programming Languages & Technologies:**  
 - HTML5, CSS3, JavaScript  
