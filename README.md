@@ -1,5 +1,21 @@
-<h1 style="text-align:center;">This is Manik Hossain </h1>
-<h2 align="center"> [A passionate Web Designer, Developer, WordPress and other CMS Expert ] </h2> <br /> 
+<div style="text-align: center; font-family: Arial, sans-serif; line-height: 1.4; margin-top: 30px;">
+
+  <!-- Main Heading -->
+  <h1 style="font-size: 48px; font-weight: bold; color: #1D8FC3; margin-bottom: 10px;">
+    👋 Hi, I’m <span style="color: #D93B2A;">Manik Hossain</span>
+  </h1>
+
+  <!-- Subheading with icons -->
+  <h2 style="font-size: 22px; font-weight: 600; color: #333;">
+    💻 Passionate <span style="color: #1D8FC3;">Web Designer</span>, 🖥️ <span style="color: #D93B2A;">Developer</span>,  
+    ⚡ <span style="color: #1D8FC3;">WordPress & CMS Expert</span>
+  </h2>
+
+  <!-- Optional line/border for style -->
+  <hr style="width: 80px; border: 2px solid #FFD54F; margin: 20px auto; border-radius: 5px;" />
+
+</div>
+
 
 <a href="https://ibb.co.com/gMR4HgBk"><img src="https://i.ibb.co.com/rGwdTy1D/Manik-Hossain-Web-Designer-and-Developer-Banner.png" alt="Manik-Hossain-Web-Designer-and-Developer-Banner" border="0" width="100%" align="center"></a>
 
