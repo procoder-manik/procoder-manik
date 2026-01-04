@@ -22,84 +22,63 @@
 <!-- intro  -->
 
 
-<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
+👋 **Hi, I’m Manik Hossain**  
+I’m a professional **Web Developer**, **WordPress Expert**, and **CMS Specialist** with **5+ years of experience**, working with multiple agencies and delivering solutions in web development, CMS customization, and technical SEO.
 
-  <p style="font-size: 18px; font-weight: bold;">
-    Hi, I’m <span style="color: #1D8FC3;">Manik Hossain</span>, a professional <span style="color: #D93B2A;">Web Developer</span>, <span style="color: #D93B2A;">WordPress Expert</span>, and <span style="color: #D93B2A;">CMS Specialist</span> with <strong>5+ years of experience</strong>, working with multiple agencies and delivering solutions in web development, CMS customization, and technical SEO.
-  </p>
+---
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
-    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">CMS Platforms I Have Worked With:</span>
-  </p>
-  <ul style="list-style: disc; padding-left: 20px;">
-    <li><strong>WordPress</strong> (PHP, MySQL, HTML, CSS, JavaScript)</li>
-    <li><strong>Shopify</strong> (Liquid, HTML, CSS, JavaScript)</li>
-    <li><strong>Wix</strong> (Velo / JavaScript, HTML, CSS)</li>
-    <li><strong>Squarespace</strong> (HTML, CSS, JavaScript)</li>
-    <li><strong>Webflow</strong> (HTML, CSS, JavaScript)</li>
-    <li><strong>Square Online</strong> (HTML, CSS, JavaScript)</li>
-    <li><strong>Duda</strong> (HTML, CSS, JavaScript)</li>
-  </ul>
+💻 **CMS Platforms I Have Worked With:**  
+- 🟢 **WordPress** (PHP, MySQL, HTML, CSS, JavaScript)  
+- 🛒 **Shopify** (Liquid, HTML, CSS, JavaScript)  
+- 🟦 **Wix** (Velo / JavaScript, HTML, CSS)  
+- 🟪 **Squarespace** (HTML, CSS, JavaScript)  
+- 🌐 **Webflow** (HTML, CSS, JavaScript)  
+- 🟫 **Square Online** (HTML, CSS, JavaScript)  
+- 🟡 **Duda** (HTML, CSS, JavaScript)  
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
-    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">Core Skills & Expertise:</span>
-  </p>
-  <ul style="list-style: disc; padding-left: 20px;">
-    <li>Custom WordPress Development</li>
-    <li>Elementor Pro</li>
-    <li>WooCommerce</li>
-    <li>Responsive Web Design</li>
-    <li>CMS Optimization</li>
-    <li>Technical SEO</li>
-    <li>Website Performance & Security</li>
-  </ul>
+---
 
-  <!-- Night Owl image -->
-  <div>
-    <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-  </div>
-  <!-- Night Owl image End -->
+🛠️ **Core Skills & Expertise:**  
+- WordPress Custom Development  
+- Elementor Pro  
+- WooCommerce  
+- Responsive Web Design  
+- CMS Optimization  
+- Technical SEO  
+- Website Performance & Security  
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
-    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">Programming Languages & Technologies:</span>
-  </p>
-  <ul style="list-style: disc; padding-left: 20px;">
-    <li>HTML5, CSS3, JavaScript</li>
-    <li>PHP, MySQL</li>
-    <li>React.js</li>
-    <li>Node.js</li>
-    <li>MongoDB</li>
-    <li>Next.js</li>
-    <li>MERN Stack</li>
-  </ul>
+---
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
-    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">Current Learning & Focus:</span>
-  </p>
-  <ul style="list-style: disc; padding-left: 20px;">
-    <li>Full-Stack JavaScript Development</li>
-    <li>React.js UI Development</li>
-    <li>Node.js Backend Architecture</li>
-    <li>MongoDB Database Design</li>
-    <li>Next.js (SSR & SEO Optimization)</li>
-    <li>Vibe Coding (Clean Code, Performance, Scalable Architecture)</li>
-  </ul>
+💻 **Programming Languages & Technologies:**  
+- HTML5, CSS3, JavaScript  
+- PHP, MySQL  
+- React.js  
+- Node.js  
+- MongoDB  
+- Next.js  
+- MERN Stack  
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
-    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">Experience Highlights:</span>
-  </p>
-  <ul style="list-style: disc; padding-left: 20px;">
-    <li>550+ websites delivered across multiple industries</li>
-    <li>Agency-level collaboration and production workflows</li>
-    <li>Focus on clean code, clear communication, and measurable results</li>
-  </ul>
+---
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
-    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">Goal:</span>
-  </p>
-  <p>Build <strong>scalable</strong>, <strong>high-performance</strong>, and <strong>business-driven digital solutions</strong> combining strong design, modern development, and SEO best practices.</p>
+🚀 **Current Learning & Focus:**  
+- Full-Stack JavaScript Development  
+- React.js UI Development  
+- Node.js Backend Architecture  
+- MongoDB Database Design  
+- Next.js (SSR & SEO Optimization)  
+- Vibe Coding (Clean Code, Performance, Scalable Architecture)  
 
-</div>
+---
+
+🏆 **Experience Highlights:**  
+- 550+ websites delivered across multiple industries  
+- Agency-level collaboration and production workflows  
+- Focus on clean code, clear communication, and measurable results  
+
+---
+
+🎯 **Goal:**  
+Build **scalable**, **high-performance**, and **business-driven digital solutions** combining strong design, modern development, and SEO best practices.
 
 
 <!-- About End -->
@@ -230,6 +209,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/procoder-manik)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manik-hossain-6579b1208/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/manikhossain.pro) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/procoder_manik/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC2LdLMgCiM8-tJUqv6Omwww)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/devdotto.svg' alt='dev.to' height='40'>](https://dev.to/procodermanik)
 
 </div>
 <br/>
