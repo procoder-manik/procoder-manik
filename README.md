@@ -12,12 +12,6 @@
 <!-- About Start -->
 
 
-<!--code Gif image-->
-[![Video Thumbnail](https://via.placeholder.com/600x340.png?text=Watch+Video)](https://jumpshare.com/v/UCbWg9yIKkWh36KeQOfS
-[Watch my video on Jumpshare](https://jumpshare.com/v/UCbWg9yIKkWh36KeQOfS)
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/UCbWg9yIKkWh36KeQOfS" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 
