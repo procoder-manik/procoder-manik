@@ -1,4 +1,4 @@
-<h1 >This is Manik Hossain </h1>
+<h1 style="text-align:center;">This is Manik Hossain </h1>
 <h2 align="center"> [A passionate Web Designer, Developer, WordPress and other CMS Expert ] </h2> <br /> 
 
 <a href="https://ibb.co.com/gMR4HgBk"><img src="https://i.ibb.co.com/rGwdTy1D/Manik-Hossain-Web-Designer-and-Developer-Banner.png" alt="Manik-Hossain-Web-Designer-and-Developer-Banner" border="0" width="100%" align="center"></a>
