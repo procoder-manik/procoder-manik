@@ -9,6 +9,12 @@
 
 This is 'Manik Hossain'. I live in Bangladesh. My hometown is Dinajpur. I am a student and my subject is Finance & Banking. But now I am learning  Web Design and Development.
 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+
 Skills:  HTML / CSS/ Bootstrap / Javascript / jQuery / PHP / WordPress / Shopify 
 
 - 🔭 I’m currently working on WordPress & Shopify. 
@@ -21,10 +27,7 @@ Skills:  HTML / CSS/ Bootstrap / Javascript / jQuery / PHP / WordPress / Shopify
 
 
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 
 
@@ -164,25 +167,9 @@ Skills:  HTML / CSS/ Bootstrap / Javascript / jQuery / PHP / WordPress / Shopify
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
-<a href="mailto:developermanikhossain@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="developermanikhossain@gmail.com" style="margin-bottom: 5px;" />
-</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/procoder-manik)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manik-hossain-6579b1208/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/manikhossain.pro) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/procoder_manik/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC2LdLMgCiM8-tJUqv6Omwww)  
 
-<a href="https://www.instagram.com/procoder_manik/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/procoder-manik" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/pro-coder-manik/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
 
