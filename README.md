@@ -37,7 +37,7 @@ Skills:  HTML / CSS/ Bootstrap / Javascript / jQuery / PHP / WordPress / Shopify
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/procodermanik">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
+  <li><a href="https://dev.to/procodermanik">🔥New blog comming soon 🤖</a></li>
 </ul>
 <br />
 <br />
