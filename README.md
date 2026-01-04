@@ -20,6 +20,15 @@
 <picture>
   <img align="left" alt="GIF description" src="https://limewire.com/d/9eA4x#M15P3llahC">
 </picture>
+1
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/UCbWg9yIKkWh36KeQOfS" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+2
+<a href="https://jumpshare.com/s/UCbWg9yIKkWh36KeQOfS"><p style="margin-bottom: 0 !important;">Skills_Animation_White - View Image</p><img style="max-width:400px;" src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194939e4978b9fdc540dbdf05970f1022162c5dda3a6fdb598cc33c738ab698d1fbe0dbd13d0008ea90682f5d266f5d805cab3f673487aa85f9d4a77ac86b7ecb65de"></a>
+3
+Skills_Animation_White - View Image
+
+
+
 <!-- code gif image End-->
 
 
