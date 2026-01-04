@@ -3,16 +3,21 @@
 
 <a href="https://ibb.co.com/gMR4HgBk"><img src="https://i.ibb.co.com/rGwdTy1D/Manik-Hossain-Web-Designer-and-Developer-Banner.png" alt="Manik-Hossain-Web-Designer-and-Developer-Banner" border="0" width="100%" align="center"></a>
 
+
 # Hi there 👋, I'm Manik Hossain 
 <h3 style="color:red; text-align:center"> A passionate Web Designer & Developer –¦– WordPress & Shopify Expert </h3>
 ---
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-<!--Night Owl image End-->
+
 
 <!-- About Start -->
+
+
+<!--code Gif image-->
+<div>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co.com/4R8nkMv9/Skills-Animation-White.gif" alt="Skills Animation White" border="0" align="right" width="40%"></a> 
+</div>
+<!-- code gif image End-->
+
 
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
@@ -42,7 +47,11 @@
     <li>Technical SEO</li>
     <li>Website Performance & Security</li>
   </ul>
-
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+<!--Night Owl image End-->
   <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Programming Languages & Technologies:</p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li>HTML5, CSS3, JavaScript</li>
