@@ -6,82 +6,69 @@
 # Hi there 👋, I'm Manik Hossain 
 <h3 style="color:red; text-align:center"> A passionate Web Designer & Developer –¦– WordPress & Shopify Expert </h3>
 
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
 
-Hi, I’m Manik Hossain, a professional Web Developer, WordPress Expert, and CMS Specialist with 5+ years of experience, working with multiple agencies and delivering solutions in web development, CMS customization, and technical SEO.
+  <p style="font-size: 18px; font-weight: bold;">
+    Hi, I’m <span style="color: #1D8FC3;">Manik Hossain</span>, a professional <span style="color: #D93B2A;">Web Developer</span>, <span style="color: #D93B2A;">WordPress Expert</span>, and <span style="color: #D93B2A;">CMS Specialist</span> with <strong>5+ years of experience</strong>, working with multiple agencies and delivering solutions in web development, CMS customization, and technical SEO.
+  </p>
 
-CMS Platforms I Have Worked With:
+  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">CMS Platforms I Have Worked With:</p>
+  <ul style="list-style: disc; padding-left: 20px;">
+    <li><strong>WordPress</strong> (PHP, MySQL, HTML, CSS, JavaScript)</li>
+    <li><strong>Shopify</strong> (Liquid, HTML, CSS, JavaScript)</li>
+    <li><strong>Wix</strong> (Velo / JavaScript, HTML, CSS)</li>
+    <li><strong>Squarespace</strong> (HTML, CSS, JavaScript)</li>
+    <li><strong>Webflow</strong> (HTML, CSS, JavaScript)</li>
+    <li><strong>Square Online</strong> (HTML, CSS, JavaScript)</li>
+    <li><strong>Duda</strong> (HTML, CSS, JavaScript)</li>
+  </ul>
 
-WordPress (PHP, MySQL, HTML, CSS, JavaScript)
+  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Core Skills & Expertise:</p>
+  <ul style="list-style: disc; padding-left: 20px;">
+    <li>Custom WordPress Development</li>
+    <li>Elementor Pro</li>
+    <li>WooCommerce</li>
+    <li>Responsive Web Design</li>
+    <li>CMS Optimization</li>
+    <li>Technical SEO</li>
+    <li>Website Performance & Security</li>
+  </ul>
 
-Shopify (Liquid, HTML, CSS, JavaScript)
+  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Programming Languages & Technologies:</p>
+  <ul style="list-style: disc; padding-left: 20px;">
+    <li>HTML5, CSS3, JavaScript</li>
+    <li>PHP, MySQL</li>
+    <li>React.js</li>
+    <li>Node.js</li>
+    <li>MongoDB</li>
+    <li>Next.js</li>
+    <li>MERN Stack</li>
+  </ul>
 
-Wix (Velo / JavaScript, HTML, CSS)
+  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Current Learning & Focus:</p>
+  <ul style="list-style: disc; padding-left: 20px;">
+    <li>Full-Stack JavaScript Development</li>
+    <li>React.js UI Development</li>
+    <li>Node.js Backend Architecture</li>
+    <li>MongoDB Database Design</li>
+    <li>Next.js (SSR & SEO Optimization)</li>
+    <li>Vibe Coding (Clean Code, Performance, Scalable Architecture)</li>
+  </ul>
 
-Squarespace (HTML, CSS, JavaScript)
+  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Experience Highlights:</p>
+  <ul style="list-style: disc; padding-left: 20px;">
+    <li>550+ websites delivered across multiple industries</li>
+    <li>Agency-level collaboration and production workflows</li>
+    <li>Focus on clean code, clear communication, and measurable results</li>
+  </ul>
 
-Webflow (HTML, CSS, JavaScript)
+  <p style="font-size: 16px; font-weight: bold; margin-top: 15px;">Goal:</p>
+  <p>Build <strong>scalable</strong>, <strong>high-performance</strong>, and <strong>business-driven digital solutions</strong> combining strong design, modern development, and SEO best practices.</p>
 
-Square Online (HTML, CSS, JavaScript)
+</div>
 
-Duda (HTML, CSS, JavaScript)
 
-Core Skills & Expertise:
 
-Custom WordPress Development
-
-Elementor Pro
-
-WooCommerce
-
-Responsive Web Design
-
-CMS Optimization
-
-Technical SEO
-
-Website Performance & Security
-
-Programming Languages & Technologies:
-
-HTML5, CSS3, JavaScript
-
-PHP, MySQL
-
-React.js
-
-Node.js
-
-MongoDB
-
-Next.js
-
-MERN Stack
-
-Current Learning & Focus:
-
-Full-Stack JavaScript Development
-
-React.js UI Development
-
-Node.js Backend Architecture
-
-MongoDB Database Design
-
-Next.js (SSR & SEO Optimization)
-
-Vibe Coding (Clean Code, Performance, Scalable Architecture)
-
-Experience Highlights:
-
-550+ websites delivered across multiple industries
-
-Agency-level collaboration and production workflows
-
-Focus on clean code, clear communication, and measurable results
-
-Goal:
-
-Build scalable, high-performance, and business-driven digital solutions combining strong design, modern development, and SEO best practices
 
 <!--Night Owl image-->
 <div>
