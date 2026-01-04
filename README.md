@@ -7,13 +7,15 @@
 <h3 style="color:red; text-align:center"> A passionate Web Designer & Developer –¦– WordPress & Shopify Expert </h3>
 
 
-Hi, I’m Manik Hossain, a professional Web Developer, WordPress Expert, and CMS Specialist with over 5+ years of experience in building high-quality, performance-driven websites. I work with multiple agencies, providing reliable solutions in WordPress development, CMS customization, and technical SEO. 
+Hi, I’m Manik Hossain, a professional Web Developer, WordPress Expert, and CMS Specialist with over 5+ years of experience in building high-quality, performance-driven websites. I work with multiple agencies, delivering reliable solutions across web development, CMS customization, and technical SEO.
 
-My core skills include custom WordPress development, Elementor Pro, WooCommerce, CMS optimization, and technical SEO, ensuring websites are fast, secure, responsive, and search-engine friendly. I have contributed to 550+ websites across various industries, helping businesses strengthen their online presence.
+I have hands-on experience working with a wide range of content management systems, including WordPress, Shopify, Wix, Squarespace, Webflow, Square, and Duda. This broad CMS expertise allows me to adapt quickly to different platforms and deliver the right solution based on each project’s needs.
 
-Currently, I am advancing my expertise in modern full-stack development, focusing on React.js, Node.js, MongoDB, and Next.js as part of the MERN stack. I am also exploring Vibe Coding, emphasizing clean code, scalable architecture, and efficient development workflows.
+My core strengths include custom WordPress development, Elementor Pro, WooCommerce, responsive design, CMS optimization, and technical SEO, ensuring websites are fast, secure, scalable, and search-engine friendly. I have successfully contributed to 550+ websites across various industries.
 
-I believe in clarity, quality, and results. My goal is to build scalable digital solutions that combine strong design, solid development, and measurable business impact.
+Currently, I am expanding my skill set in modern full-stack development, focusing on React.js, Node.js, MongoDB, and Next.js as part of the MERN stack, while also exploring Vibe Coding to improve code quality, performance, and development efficiency.
+
+I value clean code, clear communication, and measurable results. My goal is to build digital solutions that combine strong design, solid development, and long-term business growth.
 
 <!--Night Owl image-->
 <div>
