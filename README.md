@@ -16,6 +16,12 @@
 <div>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co.com/4R8nkMv9/Skills-Animation-White.gif" alt="Skills Animation White" border="0" align="right" width="40%"></a> 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 <!-- code gif image End-->
 
 
