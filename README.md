@@ -1,7 +1,7 @@
 <h1 >This is Manik Hossain </h1>
 <h4 align="center"> [A passionate Web Designer and WordPress Expert] </h4> <br /> 
 
-<a  align="center" href="https://ibb.co/xj2nwX8"><img src="[https://ibb.co.com/Z6LbTSHf](https://ibb.co.com/Z6LbTSHf)" alt="Manik Hossain Banner" border="0" ></a><br /><a target='_blank' href='https://geojsonlint.com/'>json data validator </a><br />
+<a href="https://ibb.co.com/Z6LbTSHf"><img src="https://i.ibb.co.com/ynfxsphN/Manik-Hossain-Web-Designer-and-Developer-Banner.jpg" alt="Manik-Hossain-Web-Designer-and-Developer-Banner" border="0"></a><br />
 
 # Hi there 👋, I'm Manik Hossain 
 <h3 style="color:red; text-align:center"> A passionate Web Designer & Developer –¦– WordPress & Shopify Expert </h3>
