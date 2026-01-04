@@ -6,6 +6,15 @@
 # Hi there 👋, I'm Manik Hossain 
 <h3 style="color:red; text-align:center"> A passionate Web Designer & Developer –¦– WordPress & Shopify Expert </h3>
 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+<!--Night Owl image End-->
+
+<!-- About Start -->
+
+
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
 
   <p style="font-size: 18px; font-weight: bold;">
@@ -67,16 +76,8 @@
 
 </div>
 
+<!-- About End -->
 
-
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-
-Skills:  HTML / CSS/ Bootstrap / Javascript / jQuery / PHP / WordPress / Shopify 
 
 - 🔭 I’m currently working on WordPress & Shopify. 
 - 🌱 I’m currently learning JavaScript & PHP.
