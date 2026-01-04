@@ -7,7 +7,13 @@
 <h3 style="color:red; text-align:center"> A passionate Web Designer & Developer –¦– WordPress & Shopify Expert </h3>
 
 
-This is 'Manik Hossain'. I live in Bangladesh. My hometown is Dinajpur. I am a student and my subject is Finance & Banking. But now I am learning  Web Design and Development.
+Hi, I’m Manik Hossain, a professional Web Developer, WordPress Expert, and CMS Specialist with over 5+ years of experience in building high-quality, performance-driven websites. I work with multiple agencies, providing reliable solutions in WordPress development, CMS customization, and technical SEO. 
+
+My core skills include custom WordPress development, Elementor Pro, WooCommerce, CMS optimization, and technical SEO, ensuring websites are fast, secure, responsive, and search-engine friendly. I have contributed to 550+ websites across various industries, helping businesses strengthen their online presence.
+
+Currently, I am advancing my expertise in modern full-stack development, focusing on React.js, Node.js, MongoDB, and Next.js as part of the MERN stack. I am also exploring Vibe Coding, emphasizing clean code, scalable architecture, and efficient development workflows.
+
+I believe in clarity, quality, and results. My goal is to build scalable digital solutions that combine strong design, solid development, and measurable business impact.
 
 <!--Night Owl image-->
 <div>
