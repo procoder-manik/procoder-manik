@@ -19,6 +19,7 @@
 
 <!-- code gif image End-->
 
+<!-- intro  -->
 
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
@@ -27,8 +28,8 @@
     Hi, I’m <span style="color: #1D8FC3;">Manik Hossain</span>, a professional <span style="color: #D93B2A;">Web Developer</span>, <span style="color: #D93B2A;">WordPress Expert</span>, and <span style="color: #D93B2A;">CMS Specialist</span> with <strong>5+ years of experience</strong>, working with multiple agencies and delivering solutions in web development, CMS customization, and technical SEO.
   </p>
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
-    CMS Platforms I Have Worked With:
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
+    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">CMS Platforms I Have Worked With:</span>
   </p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li><strong>WordPress</strong> (PHP, MySQL, HTML, CSS, JavaScript)</li>
@@ -40,8 +41,8 @@
     <li><strong>Duda</strong> (HTML, CSS, JavaScript)</li>
   </ul>
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
-    Core Skills & Expertise:
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
+    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">Core Skills & Expertise:</span>
   </p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li>Custom WordPress Development</li>
@@ -59,8 +60,8 @@
   </div>
   <!-- Night Owl image End -->
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
-    Programming Languages & Technologies:
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
+    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">Programming Languages & Technologies:</span>
   </p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li>HTML5, CSS3, JavaScript</li>
@@ -72,8 +73,8 @@
     <li>MERN Stack</li>
   </ul>
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
-    Current Learning & Focus:
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
+    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">Current Learning & Focus:</span>
   </p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li>Full-Stack JavaScript Development</li>
@@ -84,8 +85,8 @@
     <li>Vibe Coding (Clean Code, Performance, Scalable Architecture)</li>
   </ul>
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
-    Experience Highlights:
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
+    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">Experience Highlights:</span>
   </p>
   <ul style="list-style: disc; padding-left: 20px;">
     <li>550+ websites delivered across multiple industries</li>
@@ -93,8 +94,8 @@
     <li>Focus on clean code, clear communication, and measurable results</li>
   </ul>
 
-  <p style="font-size: 16px; font-weight: bold; margin-top: 20px; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
-    Goal:
+  <p style="font-size: 16px; font-weight: bold; margin-top: 20px;">
+    <span style="background-color: #FFD54F !important; color: #000; padding: 2px 6px; border-radius: 3px;">Goal:</span>
   </p>
   <p>Build <strong>scalable</strong>, <strong>high-performance</strong>, and <strong>business-driven digital solutions</strong> combining strong design, modern development, and SEO best practices.</p>
 
@@ -229,7 +230,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/procoder-manik)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manik-hossain-6579b1208/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/manikhossain.pro) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/procoder_manik/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC2LdLMgCiM8-tJUqv6Omwww)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/devdotto.svg' alt='dev.to' height='40'>](https://dev.to/procodermanik)
 
 </div>
 <br/>
