@@ -15,6 +15,7 @@
   <hr style="width: 80px; border: 2px solid #FFD54F; margin: 20px auto; border-radius: 5px;" />
 
 </div>
+<a href='https://postimg.cc/0rP9BsVk' target='_blank'><img src='https://i.postimg.cc/pVnyyV8F/Manik-Hossain-Linked-In-Banner-Word-Press-Web-Developer-Designer.png' border='0' alt='Manik-Hossain-Linked-In-Banner-Word-Press-Web-Developer-Designer' border="0" width="100%" align="center"></a>
 
 <a href="https://ibb.co.com/V0sgC4Qb"><img src="https://i.ibb.co.com/6ckHtC1G/Manik-Hossain-Linkedin-Banner.png" alt="Manik-Hossain-Linkedin-Banner" border="0" width="100%" align="center"></a>
 
