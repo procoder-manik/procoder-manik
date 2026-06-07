@@ -18,7 +18,7 @@
 
 
 <a href="https://ibb.co.com/gMR4HgBk"><img src="https://i.ibb.co.com/rGwdTy1D/Manik-Hossain-Web-Designer-and-Developer-Banner.png" alt="Manik-Hossain-Web-Designer-and-Developer-Banner" border="0" width="100%" align="center"></a>
-
+<a href="https://ibb.co.com/Kc9hX54v"><img src="https://i.ibb.co.com/GfVp0dYS/Linked-In-Banner-Manik-Hossain-Word-Press-Web-Developer-Designer.png" alt="Linked-In-Banner-Manik-Hossain-Word-Press-Web-Developer-Designer" border="0" width="100%" align="center"></a>
 
 # Hi there 👋, I'm Manik Hossain 
 <h3 style="color:red; text-align:center"> A passionate Web Designer & Developer –¦– WordPress & Shopify Expert </h3>
