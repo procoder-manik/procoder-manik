@@ -16,9 +16,10 @@
 
 </div>
 <a href='https://postimg.cc/Ffy2yf54' target='_blank'><img src='https://i.postimg.cc/s2qsRSTv/Manik-Hossain-Linkedin-Banner.png' border='0' alt='Manik-Hossain-Linkedin-Banner' border="0" width="100%" align="center"></a>
+<a href='https://postimg.cc/4nfmhVkf' target='_blank'><img src='https://i.postimg.cc/MZRRNm9Q/Chat-GPT-Image-Jun-2-2026-05-21-58-PM.png' border='0' alt='Chat-GPT-Image-Jun-2-2026-05-21-58-PM'></a>
+<a href='https://postimg.cc/w3w35MgW' target='_blank'><img src='https://i.postimg.cc/Qx353KPr/Chat-GPT-Image-Jun-2-2026-05-50-08-PM.png' border='0' alt='Chat-GPT-Image-Jun-2-2026-05-50-08-PM'></a>
 
-
-<a href="https://ibb.co.com/V0sgC4Qb"><img src="https://i.ibb.co.com/6ckHtC1G/Manik-Hossain-Linkedin-Banner.png" alt="Manik-Hossain-Linkedin-Banner" border="0" width="100%" align="center"></a>
+<!-- <a href="https://ibb.co.com/V0sgC4Qb"><img src="https://i.ibb.co.com/6ckHtC1G/Manik-Hossain-Linkedin-Banner.png" alt="Manik-Hossain-Linkedin-Banner" border="0" width="100%" align="center"></a> -->
 <!-- 
 <a href="https://ibb.co.com/gMR4HgBk"><img src="https://i.ibb.co.com/rGwdTy1D/Manik-Hossain-Web-Designer-and-Developer-Banner.png" alt="Manik-Hossain-Web-Designer-and-Developer-Banner" border="0" width="100%" align="center"></a> -->
 
